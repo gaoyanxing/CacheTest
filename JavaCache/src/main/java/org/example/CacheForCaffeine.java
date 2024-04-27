@@ -4,7 +4,7 @@ import com.github.benmanes.caffeine.cache.Cache;
 import com.github.benmanes.caffeine.cache.Caffeine;
 
 import java.util.concurrent.TimeUnit;
-
+//cweeeeeeeeeeeeeeeeeeeeeeeeee
 public class CacheForCaffeine {
     public static void cacheForCaffeine(){
         // 创建一个缓存实例，过期时间为5秒
